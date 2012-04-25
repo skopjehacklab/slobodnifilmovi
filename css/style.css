@@ -9,6 +9,7 @@ a:hover {color: #fff}
 .header h1{text-transform: uppercase}
 .header h1, .header h2{margin-bottom: 20px; font-weight: normal; color: #ffcc00;}
 .header h2, .header h3{font-weight: normal}
+.header h3 a{color:#fff}
 .headings{padding-top: 10px; background-color: #663366; background-color: rgba(102,51,102,1); box-shadow: 0px 0 10px 10px rgba(102,51,102,1)}
 .film{overflow: hidden; margin-bottom: 20px; padding: 10px; display: block; border: 5px dashed #7F577F; background-color: #6F456F; border-radius: 6px}
 .hidden_info{display: none}
